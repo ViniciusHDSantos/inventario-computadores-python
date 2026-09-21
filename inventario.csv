@@ -1,2 +1,4 @@
 nome,patrimonio,setor,sistema_operacional,memoria,processador
-Maquina 01,PAT6767,RH,LINUX,16,323R
+PC-ADM-001,PAT00125,Administrativo,Windows 11,16,Intel Core i5-12400
+PC-RH-002,PAT00126,Recursos Humanos,Windows 10,8,Intel Core i3-10100
+PC-TI-003,PAT00127,Tecnologia da Informação,Ubuntu 24.04,32,AMD Ryzen 7 5700G
